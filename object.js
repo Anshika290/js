@@ -10,5 +10,5 @@ var person = new Object({
     }
 });
 //console.log(person.name);
-console.log(`my name is ${person.name} ${person.profession()}`);
+console.log(`my name is ${person.name} and profession is `);
 person.profession();
